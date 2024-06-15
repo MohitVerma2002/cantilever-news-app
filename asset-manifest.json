@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cantilever-news-app/static/css/main.be2558d4.css",
-    "main.js": "/cantilever-news-app/static/js/main.16d4c5a3.js",
+    "main.js": "/cantilever-news-app/static/js/main.a8833603.js",
     "static/js/453.08c78f33.chunk.js": "/cantilever-news-app/static/js/453.08c78f33.chunk.js",
     "index.html": "/cantilever-news-app/index.html",
     "main.be2558d4.css.map": "/cantilever-news-app/static/css/main.be2558d4.css.map",
-    "main.16d4c5a3.js.map": "/cantilever-news-app/static/js/main.16d4c5a3.js.map",
+    "main.a8833603.js.map": "/cantilever-news-app/static/js/main.a8833603.js.map",
     "453.08c78f33.chunk.js.map": "/cantilever-news-app/static/js/453.08c78f33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be2558d4.css",
-    "static/js/main.16d4c5a3.js"
+    "static/js/main.a8833603.js"
   ]
 }
